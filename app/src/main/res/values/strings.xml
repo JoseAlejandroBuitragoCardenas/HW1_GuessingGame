@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="Inicio_Titulo">Adivina el Número</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Demasiado_Alto">Demasiado Alto</string>
+    <string name="Demasiado_Bajo">Demasiado Bajo</string>
+
+</resources>
